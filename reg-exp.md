@@ -35,4 +35,4 @@
  \W 	| 与任何非单词字符匹配。与“[^A-Za-z0-9_]”等效。
 
 
- [参考 http://msdn.microsoft.com/zh-cn/library/ae5bf541(v=vs.90).aspx](http://msdn.microsoft.com/zh-cn/library/ae5bf541(v=vs.90).aspx)
+参考 http://msdn.microsoft.com/zh-cn/library/ae5bf541(v=vs.90).aspx
